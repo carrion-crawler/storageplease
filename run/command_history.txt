@@ -1,0 +1,2 @@
+/give Dev stor_mep:example_item
+/give Dev stor_mep:example_block
