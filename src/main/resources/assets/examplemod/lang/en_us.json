@@ -1,13 +1,12 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item",
+  "itemGroup.storageplease": "Storage, Please and Thank You",
+  "block.storageplease.example_block": "Example Block",
+  "item.storageplease.example_item": "Example Item",
 
-  "examplemod.configuration.title": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
-  "examplemod.configuration.items": "Item List",
-  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
-  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "block.storageplease.test_storage_block": "Test storage bl0ck :)",
+
+  "storageplease.configuration.title": "Storage, Please Configs",
+  "storageplease.configuration.section.storageplease.common.toml": "Storage Please Configs",
+  "storageplease.configuration.section.storageplease.common.toml.title": "Storage Please Mod Configs"
+
 }
